@@ -1,8 +1,6 @@
-### Hi there 👋
+### Hello there 👋
 
 My name is Nathan.
-
-[![An image of @avendesora's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/avendesora)](https://holopin.io/@avendesora)
 
 - 😄 Pronouns: he/him
 - 🔭 I’m currently working on ...
@@ -14,6 +12,44 @@ My name is Nathan.
   - Flutter/Dart
   - React
   - Rust
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=avendesora&include_all_commits=true&count_private=true&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=avendesora&include_all_commits=true&count_private=true&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=avendesora&include_all_commits=true&count_private=true&show_icons=true" />
+</picture>
+
+<picture>
+  <source
+    srcset="https://github-readme-streak-stats.herokuapp.com/?user=avendesora&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-streak-stats.herokuapp.com/?user=avendesora"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=avendesora" />
+</picture>
+
+<!--<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=avendesora&include_all_commits=true&count_private=true&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=avendesora&include_all_commits=true&count_private=true&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avendesora&include_all_commits=true&count_private=true&show_icons=true" />
+</picture>-->
+
+[![An image of @avendesora's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/avendesora)](https://holopin.io/@avendesora)
 
 <!--
 **avendesora/avendesora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
